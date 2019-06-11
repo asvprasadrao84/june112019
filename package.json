@@ -1,0 +1,21 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "description": "second project",
+  "main": "app.js",
+  "scripts": {
+    "mypro": "nodemon app.js"
+  },
+  "keywords": [
+    "second",
+    "project",
+    "express"
+  ],
+  "author": "Prasad Rao",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.17.1"
+  },
+  "config": {"port": "2017" }
+}
